@@ -18,6 +18,9 @@ DataTestEl/*
 DataTestEl/*.*
 Log.txt
 bin/BasicSetting.json
+local/
+local/*.*
+local/*
 *.o
 *.mat
 
